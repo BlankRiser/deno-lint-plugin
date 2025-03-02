@@ -1,0 +1,9 @@
+{
+  "name": "@devhaven/deno-lint-plugin",
+  "version": "0.1.0",
+  "license": "MIT",
+  "exports": "./plugin.ts",
+  "lint": {
+    "plugins": ["./plugin.ts"]
+  }
+}
