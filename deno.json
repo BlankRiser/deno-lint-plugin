@@ -1,5 +1,6 @@
 {
   "name": "@devhaven/deno-lint-plugin",
+  "description": "A Deno lint plugin for react projects",
   "version": "0.1.1",
   "license": "MIT",
   "exports": "./plugin.ts",
